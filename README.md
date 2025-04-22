@@ -1,6 +1,5 @@
 # 🎟️ TicketVerse — Real-Time Event Ticketing Platform
 
-![EventChain Logo](./assets/eventchain-logo-1.png)
 
 A modern event ticketing platform that combines AI assistance, blockchain technology, and real-time updates to provide a seamless event discovery and ticket purchasing experience.
 
@@ -31,7 +30,7 @@ A modern event ticketing platform that combines AI assistance, blockchain techno
 - 🔐 Authentication: Session-based auth with Passport.js
 - 💳 Payment Processing: Stripe integration
 
-## ✨ Key Features
+### ✨ Key Features
 
 1. 🧠 Multimodal Event Discovery
    - Text-based search
@@ -57,7 +56,7 @@ A modern event ticketing platform that combines AI assistance, blockchain techno
    - Multi-language support
    - Context-aware responses
 
-## 🏗 Architecture
+### 🏗 Architecture
 
 ![Architecture Diagram](./assets/architecture-diagram.png)
 
@@ -112,7 +111,7 @@ License — free to use, modify, and share.
 Shubham Kumar & Manya
 
 Repo: https://github.com/Manyan06/eventTicket
-Repo: https://github.com/kumar-shubham1/Event-Ticket-system
+Repo: https://github.com/kumar-shubham1/Event_Ticket_Assistant
 
 
 ## 🙋🏻‍♂️ Questions or Contributions?
