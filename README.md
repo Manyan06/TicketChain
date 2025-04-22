@@ -111,12 +111,14 @@ License — free to use, modify, and share.
 ###👤 Author:
 Shubham Kumar & Manya
 
+Repo: https://github.com/Manyan06/eventTicket
 Repo: https://github.com/kumar-shubham1/Event-Ticket-system
 
 
 ## 🙋🏻‍♂️ Questions or Contributions?
 
-Open an issue or pull request on GitHub  
+Open an issue or pull request on GitHub
+Connect: ![github.com/Manyan06](./https://github.com/Manyan06) 
 Connect: [github.com/kumar-shubham1](https://github.com/kumar-shubham1)
 
 ---
