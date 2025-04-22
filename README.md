@@ -1,4 +1,4 @@
-# 🎟️ EventChain — Real-Time Event Ticketing Platform
+# 🎟️ TicketVerse — Real-Time Event Ticketing Platform
 
 ![EventChain Logo](./assets/eventchain-logo-1.png)
 
@@ -7,7 +7,7 @@ A modern event ticketing platform that combines AI assistance, blockchain techno
 ## 🛠 Tech Stack
 
 ### Frontend
-- 🧩 Framework: React with TypeScript
+- 🧩 Framework: React with JavaScript
 - 🧱 UI Components: shadcn/ui + Tailwind CSS
 - ⚙️ State Management: React Query
 - 🧭 Routing: Wouter
@@ -24,7 +24,7 @@ A modern event ticketing platform that combines AI assistance, blockchain techno
 ### Backend
 - 🖥 Runtime: Node.js
 - 🚀 Framework: Express.js
-- 🗃 Database: PostgreSQL with Drizzle ORM
+- 🗃 Database: MongoDB
 - 📡 Real-time Events: Fluvio streaming service
 - 🧠 AI/ML: GROQ API integration
 - ⛓ Blockchain: Base for NFT tickets
@@ -100,7 +100,7 @@ Create a .env file in the /server folder with the following:
 ### 🌍 Deployment:
 This project is cloud-ready and can be deployed to:
 
-- Vercel (Frontend)
+- Netlify (Frontend)
 - Railway / Render / Fly.io (Backend)
 - Any PostgreSQL-compatible DB provider (e.g., Supabase, Neon)
 - IPFS or Base-compatible blockchain for NFT metadata
@@ -109,7 +109,7 @@ This project is cloud-ready and can be deployed to:
 License — free to use, modify, and share.
 
 ###👤 Author:
-Made with ❤️ by Shubham Kumar
+Shubham Kumar & Manya
 
 Repo: https://github.com/kumar-shubham1/Event-Ticket-system
 
