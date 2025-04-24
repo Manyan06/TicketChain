@@ -5,9 +5,7 @@ const Register = () => {
   return (
     <div className="bg-gray-50 min-h-screen flex items-center justify-center px-4">
       <div className="max-w-md w-full bg-white rounded-lg shadow-md p-8">
-        <a href="index.html" className="inline-flex items-center text-blue-600 hover:text-blue-800 mb-6 font-medium">
-          <i className="fas fa-arrow-left mr-2"></i> Back to Home
-        </a>
+      <Link to="/" className="inline-flex items-center text-blue-600 hover:text-blue-800 mb-6 font-medium"><i className="fas fa-arrow-left mr-2"></i> Back to Home </Link>
         <div className="text-center mb-6">
           <h1 className="text-3xl font-extrabold text-gray-900">Create an Account</h1>
           <p className="mt-2 text-gray-600">Fill in the details below to register</p>

@@ -9,7 +9,7 @@ const Home = () => {
         <div id="root"></div>
         <div className="flex items-center space-x-3">
           <div className="w-10 h-10 rounded-full bg-indigo-500 flex items-center justify-center text-white font-bold text-lg">T</div>
-          <span className="font-semibold text-lg text-gray-900 select-none">TicketVerse</span>
+          <span className="font-semibold text-lg text-gray-900 select-none">TicketChain</span>
         </div>
         <div className="relative max-w-md">
           <input type="text" placeholder="Search..." className="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500" />
@@ -75,7 +75,7 @@ const Home = () => {
             <div className="flex flex-col gap-4 sm:w-72">
               <div className="flex items-center gap-3">
                 <div className="w-8 h-8 rounded-md bg-[#5A6FFF] flex items-center justify-center text-white font-semibold text-lg">T</div>
-                <span className="text-white font-semibold text-base leading-5">TicketVerse</span>
+                <span className="text-white font-semibold text-base leading-5">TicketChain</span>
               </div>
               <p className="text-sm leading-5 max-w-[280px]">The future of event ticketing powered by AI and blockchain technology.</p>
               <div className="flex gap-4 text-[#718096] text-lg">
@@ -115,7 +115,7 @@ const Home = () => {
               </div>
             </div>
           </div>
-          <p className="text-center text-xs text-[#718096] mt-8 select-none">© 2025 TicketVerse. All rights reserved.</p>
+          <p className="text-center text-xs text-[#718096] mt-8 select-none">© 2025 TicketChain. All rights reserved.</p>
         </footer>
       </div>
     </div>

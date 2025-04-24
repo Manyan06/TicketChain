@@ -1,4 +1,4 @@
-# 🎟️ TicketVerse — Real-Time Event Ticketing Platform
+# 🎟️ TicketChain — Real-Time Event Ticketing Platform
 
 
 A modern event ticketing platform that combines AI assistance, blockchain technology, and real-time updates to provide a seamless event discovery and ticket purchasing experience.
@@ -10,7 +10,6 @@ A modern event ticketing platform that combines AI assistance, blockchain techno
 - 🧱 UI Components: shadcn/ui + Tailwind CSS
 - ⚙️ State Management: React Query
 - 🧭 Routing: Wouter
-- 🔁 Real-time Updates: WebSocket-based Fluvio integration
 - 🎨 Styling:
   - Tailwind CSS for utility-first styling
   - Custom animations and transitions
@@ -24,7 +23,6 @@ A modern event ticketing platform that combines AI assistance, blockchain techno
 - 🖥 Runtime: Node.js
 - 🚀 Framework: Express.js
 - 🗃 Database: MongoDB
-- 📡 Real-time Events: Fluvio streaming service
 - 🧠 AI/ML: GROQ API integration
 - ⛓ Blockchain: Base for NFT tickets
 - 🔐 Authentication: Session-based auth with Passport.js
@@ -101,11 +99,9 @@ This project is cloud-ready and can be deployed to:
 
 - Netlify (Frontend)
 - Railway / Render / Fly.io (Backend)
-- Any PostgreSQL-compatible DB provider (e.g., Supabase, Neon)
-- IPFS or Base-compatible blockchain for NFT metadata
 
 ## 📜 License:
-License — free to use, modify, and share.
+License — free to use, modify and share.
 
 ###👤 Author:
 Shubham Kumar & Manya
