@@ -2,6 +2,8 @@
 const express = require('express');
 const WebSocket = require('ws'); // Import WebSocket
 const i18n = require('i18next'); // Import i18n
+// const preferences = require('../utils/preferences'); // adjust path as needed
+
 
 // Initialize i18n
 i18n.init({
@@ -56,7 +58,7 @@ router.post('/recommendations', async (req, res) => {
 
     try {
         // Fetch user preferences from the database
-        const preferences = await getUser Preferences(userId); // Ensure this function is defined
+        const preferences = await getUserPreferences(userId); // Ensure this function is defined
         // Use GROQ to generate recommendations based on preferences
         const recommendations = await generateRecommendations(preferences); // Ensure this function is defined
         res.send({ recommendations });
