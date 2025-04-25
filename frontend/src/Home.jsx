@@ -41,12 +41,9 @@ const Home = () => {
             Our AI-powered ticketing assistant helps you discover, purchase, and store event tickets and collectible NFTs in real-time.
           </p>
           <div className="flex space-x-4">
-          <Link 
-  to="/tickets" 
-  className="px-6 py-3 bg-gradient-to-r from-indigo-600 to-indigo-500 text-white font-semibold rounded-md flex items-center gap-2 hover:from-indigo-700 hover:to-indigo-600 transition"
->
-  Get Started <i className="fas fa-arrow-right"></i>
-</Link>
+            <Link 
+            to="/tickets" 
+            className="px-6 py-3 bg-gradient-to-r from-indigo-600 to-indigo-500 text-white font-semibold rounded-md flex items-center gap-2 hover:from-indigo-700 hover:to-indigo-600 transition">Get Started <i className="fas fa-arrow-right"></i></Link>
             <button className="px-5 py-3 bg-gray-100 text-gray-900 font-semibold rounded-md hover:bg-gray-200 transition">Learn More</button>
           </div>
           <div className="flex space-x-6 text-gray-700 text-sm select-none">
@@ -65,11 +62,7 @@ const Home = () => {
           <img alt="Background blur layer with soft green and blue hues behind the app interface" className="absolute -inset-6 rounded-xl opacity-40" height="560" src="https://storage.googleapis.com/a1aa/image/99796190-e4fb-4c44-5f44-c149c83d8c56.jpg" width="560"/>
         </section>
       </main>
-      <Link
-  to="/chatbot"
-  className="w-16 h-16 rounded-full bg-indigo-500 border border-black flex items-center justify-center text-white font-bold text-xl fixed bottom-0 right-0 mb-8 mr-8 z-50">
-  bot
-</Link>
+      <Link to="/chatbot"className="w-16 h-16 rounded-full bg-indigo-500 border border-black flex items-center justify-center text-white font-bold text-xl fixed bottom-0 right-0 mb-8 mr-8 z-50">bot</Link>
 
 
       <div className="">
