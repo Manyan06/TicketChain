@@ -114,8 +114,7 @@ Repo: https://github.com/kumar-shubham1/Event_Ticket_Assistant
 
 ## 🙋🏻‍♂️ Questions or Contributions?
 
-Open an issue or pull request on GitHub
-Connect: [Manyan06](https://github.com/Manyan06) 
+Open an issue or pull request on GitHub 
 Connect: [github.com/kumar-shubham1](https://github.com/kumar-shubham1)
 
 ---
