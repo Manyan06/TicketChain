@@ -1,7 +1,6 @@
 # 🎟️ TicketChain — Real-Time Event Ticketing Platform
 A modern event ticketing platform that combines AI assistance and real-time updates to provide a seamless event discovery and ticket purchasing experience.
 
-Visit my website here - [Ticket-chain](https://book-event-ticket.netlify.app)
 
 ## 🛠 Tech Stack
 
